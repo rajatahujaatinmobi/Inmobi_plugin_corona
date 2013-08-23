@@ -1,0 +1,4 @@
+Changes made in SDK version 2.3:
+
+1. Modified the sandbox name to i.w.sandbox.inmobi.com
+2. Logging relevant message when the ad request fails. For eg. in case of "No Fill".

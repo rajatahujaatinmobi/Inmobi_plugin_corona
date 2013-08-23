@@ -1,0 +1,81 @@
+InMobi iOS SDK i350 - Changelog
+
+For detailed documentation, please visit http://developer.inmobi.com
+
+------------------------------------
+24-Apr-2012: SDK i350 (Build 3.5.1) released.
+
+ - Fixed minor bugs occuring while refreshing an expanded ad.
+
+------------------------------------
+11-Apr-2012: SDK i350 (Build 3.5.0 ) released.
+
+ - The uniqueIdentifier property of UIDevice class is no longer used.
+ - Fixed earlier multiple redirection issues.
+ - Fixed crash in IMAdRequest class.
+ - Fixed issue of app tracker callback going to internal URL.
+ - Fixed alignment issues of expanded ads.
+ - Removed Core Location Framework from the SDK. Core Location is no longer a mandatory framework required to link with SDK i350.
+ - Added MediaPlayer, Security, and AVFoundation frameworks to SDK i350.
+
+Added new methods:
+
+IMAdView.h: 
+
+- (BOOL)shouldRotateToInterfaceOrientation:(UIInterfaceOrientation)orientation;
+
+IMAdRequest.h:
+
+typedef enum
+{
+    ID_LOGIN,
+    ID_SESSION
+    
+} IMIDType;
+
+
+typedef enum 
+{
+    DeviceID_NONE   = 1 << 0,
+    DeviceID_ODIN1  = 1 << 1
+    
+} DeviceIDMask;
+
+@property (nonatomic,assign) CLLocation *location;
+@property (nonatomic, copy) NSString *loginID;
+@property (nonatomic, copy) NSString *sessionID;
+
+- (void)setLocationWithCity:(NSString *)_city state:(NSString *)_state country:(NSString *)_country;
+- (void) addIDType:(IDType)idType withValue: (NSString *)value;
+
+Removed properties:
+
+IMAdRequest.h:
+@property (nonatomic, assign) BOOL isLocationEnquiryAllowed;
+
+------------------------------------
+
+
+21-Sep-2011: SDK i300 (Build 3.0.2) released.
+
+ - Suppressed location update requests in IMAdView's constructor.
+
+ - Fixed minor issue in IMAdView's loadIMAdRequest: method.
+
+ - Fixed linker errors for the IMReachabilityPrivate class.
+
+
+------------------------------------
+
+
+16-Sep-2011: SDK i300 (Build 3.0.1) released.
+
+ - Fixed ad alignment issues.
+
+ - Fixed a minor memory leak issue.
+
+
+------------------------------------ 
+
+
+08-Sep-2011: SDK i300 (Build 3.0.0) released.

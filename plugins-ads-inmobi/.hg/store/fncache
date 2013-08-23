@@ -1,0 +1,70 @@
+data/ios/CoronaEnterprise.i
+data/ios/AppCoronaDelegate.mm.i
+data/sdk/inmobi/android/ChangeLog.txt.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/libInMobiSDK-4.0.0.a.i
+data/ios/en.lproj/InfoPlist.strings.i
+data/android/project.properties.i
+data/Corona/Icon.png.i
+data/Corona/Icon-72@2x.png.i
+data/Corona/space.png.i
+data/docs/ads-inmobi/index.markdown.i
+data/ios/main.mm.i
+data/android/metadata.lua.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMInterstitial.h.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMBannerDelegate.h.i
+data/ios/AdsTestApp.xcodeproj/project.pbxproj.i
+data/ios/Plugin/CoronaIOSInMobiAdsProvider.h.i
+data/Corona/Icon@2x.png.i
+data/sdk/inmobi/android/InMobi Android SDK v2.3 Installation and Integration.pdf.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMInMobiNetworkExtras.h.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/libInMobi_iOS.a.i
+data/android/proguard-project.txt.i
+data/sdk/inmobi/android/InMobi Android SDK v2.3 Installation and Integration.pdf.d
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/libInMobiSDK-4.0.0.a.d
+data/ios/Plugin.xcodeproj/project.pbxproj.i
+data/Corona/build.settings.i
+data/android/local.properties.i
+data/Corona/main.lua.i
+data/ios/metadata.lua.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMAdRequest.h.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMAdInterstitialDelegate.h.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMError.h.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/libInMobi_iOS.a.d
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/InMobiAnalytics.h.i
+data/sdk/inmobi/android/InMobiAndroidSDK.jar.i
+data/ios/build.sh.i
+data/ios/App-Info.plist.i
+data/android/AndroidManifest.plugin.xml.i
+data/build_sdk.sh.i
+data/ios/AppCoronaDelegate.h.i
+data/android/build.xml.i
+data/.hgsub.i
+data/Corona/Icon-mdpi.png.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMAdError.h.i
+data/.hgignore.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/InMobi.h.i
+data/Corona/Icon-xhdpi.png.i
+data/android/project.plugin.properties.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMAdView.h.i
+data/sdk/inmobi/ios/ChangeLog.txt.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMBanner.h.i
+data/build.sh.i
+data/Corona/config.lua.i
+data/.hgsubstate.i
+data/sdk/inmobi/ios/InMobi-iOS-SDK-Readme.pdf.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMNetworkExtras.h.i
+data/sdk/inmobi/ios/InMobi-iOS-SDK-Readme.pdf.d
+data/Corona/Icon-72.png.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMAdDelegate.h.i
+data/ios/Prefix.pch.i
+data/android/build.plugin.xml.i
+data/Corona/Icon-hdpi.png.i
+data/android/build.plugin.sh.i
+data/ios/Plugin/CoronaIOSInMobiAdsProvider.mm.i
+data/android/build.sh.i
+data/android/src/CoronaProvider/ads/inmobi/LuaLoader.java.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMAdInterstitial.h.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMSDKUtil.h.i
+data/Corona/Icon-ldpi.png.i
+data/sdk/inmobi/ios/InMobi iOS SDK Bundle/IMInterstitialDelegate.h.i
+data/android/AndroidManifest.xml.i
